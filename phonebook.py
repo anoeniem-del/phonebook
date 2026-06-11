@@ -20,6 +20,7 @@ conn.commit()
 root = tk.Tk()
 root.title("Phone Book")
 root.geometry("600x500")
+root.iconbitmap("book30.ico")
 
 # ---- SEARCH BAR ----
 
